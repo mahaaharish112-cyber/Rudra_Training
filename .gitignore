@@ -1,0 +1,4 @@
+.venv/
+*.o
+task-1/src/prog
+task-3/grayscale_Image/grayscale
